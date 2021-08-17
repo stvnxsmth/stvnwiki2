@@ -2,7 +2,7 @@
 title: We Need to Talk About Talking About Climate Change
 permalink: /blog/talking-about-climate-change
 ---
-January 30, 2020 | 9 min read | [[Blog]]
+January 30, 2020 — 9 min read — <a class="internal-link" href="/blog">Blog</a>
 
 
 ## Introduction
