@@ -1,5 +1,5 @@
 ---
-title: Is Substack the Future of Publishing?
+title: Substack & the Future of Publishing
 permalink: /blog/substack-media-cancel-culture
 ---
 August 21, 2020 — 7 min read — <a class="internal-link" href="/blog">Blog</a>

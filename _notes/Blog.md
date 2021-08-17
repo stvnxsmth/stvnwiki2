@@ -7,7 +7,7 @@ permalink: /blog
 
 
 ## 2020
-[[Is Substack the Future of Publishing?]]
+[[Substack & the Future of Publishing]]
 
 [[How to Fight Big Tech's Power]]
 
