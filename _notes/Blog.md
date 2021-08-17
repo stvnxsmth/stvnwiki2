@@ -7,7 +7,7 @@ permalink: /blog
 
 
 ## 2020
-[[Substack is disrupting media publishing, but is it cancel-proof?]]
+[[Is Substack the Future of Publishing?]]
 
 [[How to Fight Big Tech's Power]]
 
