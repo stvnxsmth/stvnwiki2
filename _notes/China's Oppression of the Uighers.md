@@ -13,7 +13,7 @@ This is a summary of my reading from the past week with a bunch of links to get 
 
 # What’s Happening in Xinjiang?
 
-Two [unprecedented](https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html) [leaks](https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/) out of [[🇨🇳 China]] in the past week have pulled back the curtain on the country’s use of surveillance technology and detention centres to suppress its Uyghur muslim minority. This follows  [detailed satellite imagery](https://www.washingtonpost.com/opinions/2019/11/03/china-every-day-is-kristallnacht/?arc404=true)  reported earlier in November showing the destruction sown by the regime s it pursues what can only be called a policy of ethnic cleansing. This includes:
+Two [unprecedented](https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html) [leaks](https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/) out of China in the past week have pulled back the curtain on the country’s use of surveillance technology and detention centres to suppress its Uyghur muslim minority. This follows  [detailed satellite imagery](https://www.washingtonpost.com/opinions/2019/11/03/china-every-day-is-kristallnacht/?arc404=true)  reported earlier in November showing the destruction sown by the regime s it pursues what can only be called a policy of ethnic cleansing. This includes:
 
 Systematic detention of over a million people.
 
