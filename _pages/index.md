@@ -5,10 +5,11 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# 🌱 __Ce n'est pas un blog.__ This collection of essays, notes, and musings is created with the ethos of __thinking in public__. Non-linear and constantly evolving.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  **Where to Start?**
+  
 </p>
 
 <style>
