@@ -1,4 +1,4 @@
-title:               Notes from the Panopticon
+title:               stvn.wiki
 url:                 https://stvn.wiki
 include:             ['_pages']
 exclude:             ['_includes/notes_graph.json']
@@ -25,7 +25,6 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
-  - jeyll-feed
 
 sass:
   sass_dir:          _sass
