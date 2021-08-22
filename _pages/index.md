@@ -11,7 +11,6 @@ permalink: /
   This collection of essays, notes, and musings is created with an ethos of thinking in public. Some call this a digital garden or a personal wiki but — to paraphrase Rene Magritte — <i>Ce n'est pas un blog</i>. No reverse-chronological structure, non-linear, and constantly evolving.
 </p>
 
-<p style="padding: 3em 1em; background: #FFEB3B48; border-radius: 4px;">
 ### Start Here:
 
   Notes from the Panopticon (Tech, Privacy, Surveillance)
@@ -21,6 +20,10 @@ permalink: /
 
 
   Lately... (Recent reading, listening, watching)
+
+
+<p style="padding: 3em 1em; background: #FFEB3B48; border-radius: 4px;">
+<h2> Recent </h2>
 </p>
 
 <style>
