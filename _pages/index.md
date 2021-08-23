@@ -8,7 +8,7 @@ permalink: /
 ## 🌱 Welcome!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-This is a repository of notes, ideas, and occassional essays on topics I find interesting. to paraphrase René Magritte, [[Ce n'est pas un blog]]. Some call this a [digital garden](https://maggieappleton.com/garden-history) or a personal wiki.
+This is a repository of notes, ideas, and occassional essays on topics I find interesting. Some call this a <a href="https://maggieappleton.com/garden-history/" target="_blank">digital garden</a> or a personal wiki  one thing it is not, to paraphrase René Magritte, <i>[[Ce n'est pas un blog]]</i>.
 <br>
 <br>
 This exists primarily for myself, but is shared with the ethos of <i>thinking in public</i>.
