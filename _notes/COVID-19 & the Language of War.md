@@ -2,7 +2,7 @@
 title: COVID-19 & the Language of War
 permalink: /blog/covid19-language-of-war
 ---
-April 9, 2020 — 7 min read — <a class="internal-link" href="/blog">Blog</a>
+April 9, 2020 — 7 min read — <a class="internal-link" href="/notes-from-the-panopticon">👁</a> — <a class="internal-link" href="/notes-from-the-panopticon">🌍</a>
 
 
 During periods of upheaval our visions of the future become clouded by the static of uncertainty. As individuals we lose the ability to plan our daily lives; as societies we become singularly transfixed by the present danger. The fog of war is another way of describing this feeling: a debilitating lack of situational awareness that usually presages hasty decision-making. However, it is this language of war that amplifies our sense of precariousness yet rarely serves to alleviate it — and history bears many examples.

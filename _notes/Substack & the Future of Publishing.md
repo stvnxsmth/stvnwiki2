@@ -2,7 +2,7 @@
 title: Substack & the Future of Publishing
 permalink: /blog/substack-media-cancel-culture
 ---
-August 21, 2020 — 7 min read — <a class="internal-link" href="/blog">Blog</a>
+August 21, 2020 — 7 min read — <a class="internal-link" href="/media-code">🗞️</a>
 
 
 One interesting trend I’ve been following of late is the emergence of [Substack](https://substack.com/) as a hub for independent publishing. For those who don’t know, Substack is a platform that facilitates the creation and publication of email newsletters to a list of subscribers. What makes it special is the ability to leverage the built-in payments system to convert readers into a paid audience. For established writers and journalists, this reduces the dependence on large publishers whilst granting autonomy over the editorial process. For amateurs, competition is high, but no longer are tools the limiting factor for growth.

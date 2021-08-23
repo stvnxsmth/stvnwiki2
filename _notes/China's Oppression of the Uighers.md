@@ -2,7 +2,7 @@
 title: China's Oppression of the Uighers
 permalink: /blog/china-uigher-oppression
 ---
-November 29, 2019 — 12 min read — <a class="internal-link" href="/blog">Blog</a>
+November 29, 2019 — 12 min read — <a class="internal-link" href="/notes-from-the-panopticon">👁️</a>
 
 
 If I were to ask what the biggest story on the planet right now is how would you respond? Trump’s impeachment? Brexit? Cybertruck?

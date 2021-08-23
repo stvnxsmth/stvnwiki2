@@ -2,7 +2,7 @@
 title: How to Fight Big Tech's Power
 permalink: /blog/fighting-big-tech-power
 ---
-August 8, 2020 — 3 min read — <a class="internal-link" href="/blog">Blog</a>
+August 8, 2020 — 3 min read — <a class="internal-link" href="/notes-from-the-panopticon">👁️</a>
 
 
 Brian X. Chen, technology columnist fat The New York Times, on how to "fight" Big Tech's power:

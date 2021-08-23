@@ -17,11 +17,13 @@ This exists primarily for myself, but is shared with the ethos of <i>thinking in
 <p style="padding: 3em 1em; background: #FFEB3B48; border-radius: 4px;">
   <strong>Where to Start:</strong>
   <br>
-  <br> [[Notes from the Panopticon]] (Tech, Privacy, Surveillance)
+  <br> [[👁️ Notes from the Panopticon]] (Tech, Privacy, Surveillance)
   <br>
-  <br> [[Media Code]] (Media, Journalism, and Tech)
+  <br> [[🗞️ Media Code]] (Media, Journalism, and Tech)
   <br>
-  <br> [[Lately...]] (Reading, Listening, Watching)
+  <br> [[🌍 Climate, COVID, Catastrophe]] (Health, Environment, Existential Risk)
+  <br>
+  <br> [[🔗 Lately...]] (Reading, Listening, Watching)
 </p>
 
 <style>
