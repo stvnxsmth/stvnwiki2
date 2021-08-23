@@ -8,22 +8,22 @@ permalink: /
 ## 🌱 Welcome!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  This collection of essays, notes, and musings is created with an ethos of thinking in public. Some call this a digital garden or a personal wiki but — to paraphrase Rene Magritte — <i>Ce n'est pas un blog</i>. No reverse-chronological structure, non-linear, and constantly evolving.
+This is a repository of notes, ideas, and occassional essays on topics I find interesting. Some call this a digital garden or personal wiki but, to paraphrase Rene Magritte, [[Ce n'est pas un blog]].
+
+<br>This exists primarily for myself, but is shared with the ethos of <i>thinking in public</i>.
+
 </p>
 
-### Start Here:
-
-  Notes from the Panopticon (Tech, Privacy, Surveillance)
-
-
-  Media Code (Intersection of media, journalism, and Tech)
-
-
-  Lately... (Recent reading, listening, watching)
-
-
 <p style="padding: 3em 1em; background: #FFEB3B48; border-radius: 4px;">
-<h2> Recent </h2>
+  <body>
+  <h2>Where to Start:</h2>
+  <br>
+  <br> Notes from the Panopticon (Tech, Privacy, Surveillance)
+  <br>
+  <br> Media Code (Intersection of media, journalism, and Tech)
+  <br>
+  <br> Lately... (Recent reading, listening, watching)
+  </body>
 </p>
 
 <style>
