@@ -8,22 +8,20 @@ permalink: /
 ## 🌱 Welcome!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-This is a repository of notes, ideas, and occassional essays on topics I find interesting. Some call this a digital garden or personal wiki but, to paraphrase Rene Magritte, [[Ce n'est pas un blog]].
-
-<br>This exists primarily for myself, but is shared with the ethos of <i>thinking in public</i>.
-
+This is a repository of notes, ideas, and occassional essays on topics I find interesting. to paraphrase René Magritte, [[Ce n'est pas un blog]]. Some call this a [digital garden](https://maggieappleton.com/garden-history) or a personal wiki.
+<br>
+<br>
+This exists primarily for myself, but is shared with the ethos of <i>thinking in public</i>.
 </p>
 
 <p style="padding: 3em 1em; background: #FFEB3B48; border-radius: 4px;">
-  <body>
-  <h2>Where to Start:</h2>
+  <strong>Where to Start:</strong>
   <br>
   <br> [[Notes from the Panopticon]] (Tech, Privacy, Surveillance)
   <br>
-  <br> [[Media Code]] (Intersection of media, journalism, and Tech)
+  <br> [[Media Code]] (Media, Journalism, and Tech)
   <br>
-  <br> [[Lately...]] (Recent reading, listening, watching)
-  </body>
+  <br> [[Lately...]] (Reading, Listening, Watching)
 </p>
 
 <style>
