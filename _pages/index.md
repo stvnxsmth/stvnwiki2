@@ -18,11 +18,11 @@ This is a repository of notes, ideas, and occassional essays on topics I find in
   <body>
   <h2>Where to Start:</h2>
   <br>
-  <br> Notes from the Panopticon (Tech, Privacy, Surveillance)
+  <br> [[Notes from the Panopticon]] (Tech, Privacy, Surveillance)
   <br>
-  <br> Media Code (Intersection of media, journalism, and Tech)
+  <br> [[Media Code]] (Intersection of media, journalism, and Tech)
   <br>
-  <br> Lately... (Recent reading, listening, watching)
+  <br> [[Lately...]] (Recent reading, listening, watching)
   </body>
 </p>
 
